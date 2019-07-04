@@ -1,0 +1,36 @@
+1. Basic Environment:
+	Install Node
+	Install Jdk
+	Install protractor
+	
+2. Create Project folder
+3. Run below commands to create package.json
+	eun: npm init
+		add required details
+		define all required dependencies
+4. Open VSCode
+	Open Terminal
+		run: npm install
+		run: npm test
+
+
+VS Code Extensions:
+1. Protractor Snippets
+2. Run Protractor
+3. Protractor Test Runner
+4. Angular Snippets
+5. JavaScript (ES6) code snippets
+6. JavaScript Standard Style
+7. Jasmine code snippets
+8. Jasmine ES5 Code Snippets
+9. GitLens — Git supercharged
+
+Git Integration:
+1. Download and intall git 'https://git-scm.com/'
+2. In project root directory run 'git init'
+3. Run below commands to set default properties
+	- 'git config --global user.name "<username>"'
+	- 'git config --global user.email "<email>"'
+4. Create a project in Github and follow instructions mentioned in the page
+5. In VSCode install extension 'GitLens — Git supercharged'
+6. Perform general commit > push and other actions

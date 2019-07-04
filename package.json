@@ -1,0 +1,24 @@
+{
+  "name": "gettyimages",
+  "version": "1.0.0",
+  "description": "Autoamtion test requirements for application",
+  "main": "conf.js",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "jasmine": "^3.4.0",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-reporters": "^2.3.2",
+    "protractor": "^5.4.2",
+    "protractor-html-reporter-2": "^1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "automation",
+    "gettyImages"
+  ],
+  "author": "Automation Tx",
+  "license": "ISC"
+}
